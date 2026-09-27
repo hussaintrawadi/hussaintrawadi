@@ -22,7 +22,6 @@ It runs entirely on free tiers (Cloudflare Workers, D1, R2 and Vectorize, plus f
 | [FreeStickies](https://github.com/hussaintrawadi/stickies) | Sticky-note apps charge a subscription for something this simple | Free, offline notes that float on the macOS desktop |
 | [Shopify Stock-Out Alert](https://github.com/hussaintrawadi/shopify-stockout-alert) | Checking 500 plus products for sold-out sizes by hand, every morning | An email each morning with exactly what is out of stock |
 | [Shopify Sales Alert](https://github.com/hussaintrawadi/shopify-sales-alert) | Opening Shopify every morning just to see yesterday's number | Yesterday's revenue, orders and top sellers in your inbox |
-| [Dexa](https://dexa.software) | Indie apps get shared as GitHub links and Drive folders | A place to publish and find apps, web apps, automations and Claude skills |
 
 ## Open source
 
@@ -32,7 +31,7 @@ It runs entirely on free tiers (Cloudflare Workers, D1, R2 and Vectorize, plus f
 
 - **Languages:** TypeScript, Python, Swift, Kotlin, JavaScript
 - **Apps:** Next.js, React, React Native and Expo, SwiftUI, Jetpack Compose, Electron, Hono
-- **Data and infra:** Cloudflare Workers, Supabase, Postgres, SQLite, Firebase, Vercel, GitHub Actions
+- **Data and infra:** Cloudflare Workers, D1, R2, Supabase, Postgres, SQLite, Firebase, GitHub Actions
 - **AI:** Claude Code, MCP servers, Whisper, Groq
 
 ## Elsewhere
