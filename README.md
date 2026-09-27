@@ -1,8 +1,8 @@
 # Hi, I'm Hussain
 
-I build software end to end, mostly solo with Claude Code. Web apps, Android, macOS, and the automations that run around them.
+I am an indie builder. I start with a problem I actually have, then build the fix myself, end to end: the app, the backend, the automations, and getting it in front of people. Mostly solo, with Claude Code.
 
-I have been in startups since I was 16, always directly with the founder and always across functions. At ShipdeHop, a P2P delivery startup, I took an MVP that had been stuck for eight months and got it shipped in two and a half. The company got acquired. These days I also run growth and automation for D2C brands, which is where the Shopify tools below came from.
+If something annoys me every day, it usually ends up as a repo here.
 
 Based in Mumbai.
 
@@ -12,23 +12,23 @@ Based in Mumbai.
 
 It runs entirely on free tiers (Cloudflare Workers, D1, R2 and Vectorize, plus free AI APIs with Groq first), with a web app, a native Android recorder and a Mac menu-bar app. Open source, and anyone can deploy their own.
 
-## Things I have shipped
+## Problems I have solved
 
-| Project | What it does | Built with |
+| Project | The problem | What I built |
 |---|---|---|
-| [Voice Memo](https://github.com/hussaintrawadi/voice-memo) | Voice notes that turn into tasks, decisions and projects, with a Claude connector | TypeScript, Cloudflare Workers, Capacitor, SwiftUI, MCP |
-| [Mac Connect](https://github.com/hussaintrawadi/mac-connect) | Pairs an Android phone with a Mac over local Wi-Fi. Mirror and control the phone, take calls, read SMS, move files | Swift, SwiftUI, Kotlin, protobuf |
-| [Splash](https://github.com/hussaintrawadi/splash) | An Android water reminder that rings like a phone call until you drink | Kotlin, Jetpack Compose |
-| [FreeStickies](https://github.com/hussaintrawadi/stickies) | Free, offline sticky notes that float on the macOS desktop | Electron |
-| [Shopify Stock-Out Alert](https://github.com/hussaintrawadi/shopify-stockout-alert) | A morning email of the products and sizes that are out of stock | Python, Shopify GraphQL, GitHub Actions |
-| [Shopify Sales Alert](https://github.com/hussaintrawadi/shopify-sales-alert) | Yesterday's revenue, orders and top sellers in your inbox every morning | Python, Shopify GraphQL, GitHub Actions |
-| [Dexa](https://dexa.software) | A place for indie builders to publish apps, web apps, automations and Claude skills | Next.js, Supabase |
+| [Voice Memo](https://github.com/hussaintrawadi/voice-memo) | Voice notes pile up and never get listened to again | Memos that turn themselves into tasks, decisions and project briefs, with a Claude connector |
+| [Mac Connect](https://github.com/hussaintrawadi/mac-connect) | An Android phone and a Mac barely talk to each other | Mirror and control the phone, take calls, read SMS and move files, all over local Wi-Fi |
+| [Splash](https://github.com/hussaintrawadi/splash) | Every water reminder gets swiped away in two seconds | A reminder that rings like a phone call until you drink |
+| [FreeStickies](https://github.com/hussaintrawadi/stickies) | Sticky-note apps charge a subscription for something this simple | Free, offline notes that float on the macOS desktop |
+| [Shopify Stock-Out Alert](https://github.com/hussaintrawadi/shopify-stockout-alert) | Checking 500 plus products for sold-out sizes by hand, every morning | An email each morning with exactly what is out of stock |
+| [Shopify Sales Alert](https://github.com/hussaintrawadi/shopify-sales-alert) | Opening Shopify every morning just to see yesterday's number | Yesterday's revenue, orders and top sellers in your inbox |
+| [Dexa](https://dexa.software) | Indie apps get shared as GitHub links and Drive folders | A place to publish and find apps, web apps, automations and Claude skills |
 
 ## Open source
 
 - [**Voicebox**](https://github.com/jamiepine/voicebox), the open-source AI voice studio with around 55k stars. I fixed dictation in fullscreen apps, text being typed into the wrong app, and an MLX backend crash on macOS. [PR #848](https://github.com/jamiepine/voicebox/pull/848)
 
-## What I work with
+## What I build with
 
 - **Languages:** TypeScript, Python, Swift, Kotlin, JavaScript
 - **Apps:** Next.js, React, React Native and Expo, SwiftUI, Jetpack Compose, Electron, Hono
