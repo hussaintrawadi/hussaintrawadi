@@ -1,6 +1,8 @@
 # Hi, I'm Hussain
 
-I am an indie builder. I start with a problem I actually have, then build the fix myself, end to end: the app, the backend, the automations, and getting it in front of people. Mostly solo, with Claude Code.
+I am an indie builder who vibe codes. I start with a problem I actually have, then build the fix with Claude, end to end: the app, the backend, the automations, and getting it in front of people.
+
+I do not write code by hand. I decide what gets built, how it should feel and what ships, and Claude writes every line. Everything on this page was made that way.
 
 If something annoys me every day, it usually ends up as a repo here.
 
@@ -25,14 +27,19 @@ It runs entirely on free tiers (Cloudflare Workers, D1, R2 and Vectorize, plus f
 
 ## Open source
 
-- [**Voicebox**](https://github.com/jamiepine/voicebox), the open-source AI voice studio with around 55k stars. I fixed dictation in fullscreen apps, text being typed into the wrong app, and an MLX backend crash on macOS. [PR #848](https://github.com/jamiepine/voicebox/pull/848)
+- [**Voicebox**](https://github.com/jamiepine/voicebox), the open-source AI voice studio with around 55k stars. With Claude Code, I fixed dictation in fullscreen apps, text being typed into the wrong app, and an MLX backend crash on macOS. [PR #848](https://github.com/jamiepine/voicebox/pull/848)
 
-## What I build with
+## How I build
 
-- **Languages:** TypeScript, Python, Swift, Kotlin, JavaScript
-- **Apps:** Next.js, React, React Native and Expo, SwiftUI, Jetpack Compose, Electron, Hono
-- **Data and infra:** Cloudflare Workers, D1, R2, Supabase, Postgres, SQLite, Firebase, GitHub Actions
-- **AI:** Claude Code, MCP servers, Whisper, Groq
+Every project here is vibe coded with [Claude Code](https://claude.com/claude-code).
+
+1. **Start with a problem I have myself.** If I would not use it every day, I do not build it.
+2. **Describe it in plain words.** What it must do, what it must never do, and what the first version can skip.
+3. **Let Claude write the code**, in whatever the problem needs: Swift for the Mac, Kotlin for Android, TypeScript on Cloudflare, Python for automations.
+4. **Test it on real devices and real data** every day, and send Claude what breaks.
+5. **Ship it**, open source, and keep fixing what annoys me.
+
+The skill is not typing code. It is knowing what to build, noticing what feels wrong, and not stopping until it works on a real phone.
 
 ## Elsewhere
 
