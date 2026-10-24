@@ -8,7 +8,7 @@ If something annoys me every day, it usually ends up as a repo here.
 
 Based in Mumbai.
 
-## Now building: Voice Memo
+## Featured: Voice Memo
 
 [**Voice Memo**](https://github.com/hussaintrawadi/voice-memo) is a voice-first second brain. Record a thought and it gets transcribed, cleaned up, split into ideas, tasks, decisions and questions, filed into projects, and indexed so you can search it by meaning. Claude can read it and add to it through a built-in MCP connector.
 
@@ -18,9 +18,9 @@ It runs entirely on free tiers (Cloudflare Workers, D1, R2 and Vectorize, plus f
 
 | Project | The problem | What I built |
 |---|---|---|
-| [Glass TV](https://github.com/hussaintrawadi/glass-tv) | A 1 GB Android TV that lags, shows ads and closes apps in the middle of a movie | An Apple TV style home screen that frees 145 MB of RAM, opens Home 2.4x faster, boosts dialogue and drops the ads |
 | [Voice Memo](https://github.com/hussaintrawadi/voice-memo) | Voice notes pile up and never get listened to again | Memos that turn themselves into tasks, decisions and project briefs, with a Claude connector |
 | [Mac Connect](https://github.com/hussaintrawadi/mac-connect) | An Android phone and a Mac barely talk to each other | Mirror and control the phone, take calls, read SMS and move files, all over local Wi-Fi |
+| [Glass TV](https://github.com/hussaintrawadi/glass-tv) | A 1 GB Android TV that lags, shows ads and closes apps in the middle of a movie | An Apple TV style home screen that frees 145 MB of RAM, opens Home 2.4x faster, boosts dialogue and drops the ads |
 | [Splash](https://github.com/hussaintrawadi/splash) | Every water reminder gets swiped away in two seconds | A reminder that rings like a phone call until you drink |
 | [FreeStickies](https://github.com/hussaintrawadi/stickies) | Sticky-note apps charge a subscription for something this simple | Free, offline notes that float on the macOS desktop |
 | [Shopify Stock-Out Alert](https://github.com/hussaintrawadi/shopify-stockout-alert) | Checking 500 plus products for sold-out sizes by hand, every morning | An email each morning with exactly what is out of stock |
