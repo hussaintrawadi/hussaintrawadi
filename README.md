@@ -18,6 +18,7 @@ It runs entirely on free tiers (Cloudflare Workers, D1, R2 and Vectorize, plus f
 
 | Project | The problem | What I built |
 |---|---|---|
+| [Glass TV](https://github.com/hussaintrawadi/glass-tv) | A 1 GB Android TV that lags, shows ads and closes apps in the middle of a movie | An Apple TV style home screen that frees 145 MB of RAM, opens Home 2.4x faster, boosts dialogue and drops the ads |
 | [Voice Memo](https://github.com/hussaintrawadi/voice-memo) | Voice notes pile up and never get listened to again | Memos that turn themselves into tasks, decisions and project briefs, with a Claude connector |
 | [Mac Connect](https://github.com/hussaintrawadi/mac-connect) | An Android phone and a Mac barely talk to each other | Mirror and control the phone, take calls, read SMS and move files, all over local Wi-Fi |
 | [Splash](https://github.com/hussaintrawadi/splash) | Every water reminder gets swiped away in two seconds | A reminder that rings like a phone call until you drink |
@@ -35,7 +36,7 @@ Every project here is vibe coded with [Claude Code](https://claude.com/claude-co
 
 1. **Start with a problem I have myself.** If I would not use it every day, I do not build it.
 2. **Describe it in plain words.** What it must do, what it must never do, and what the first version can skip.
-3. **Let Claude write the code**, in whatever the problem needs: Swift for the Mac, Kotlin for Android, TypeScript on Cloudflare, Python for automations.
+3. **Let Claude write the code**, in whatever the problem needs: Swift for the Mac, Kotlin for Android, Java for Android TV, TypeScript on Cloudflare, Python for automations.
 4. **Test it on real devices and real data** every day, and send Claude what breaks.
 5. **Ship it**, open source, and keep fixing what annoys me.
 
